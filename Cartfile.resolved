@@ -1,0 +1,4 @@
+github "ReactiveCocoa/ReactiveSwift" "4.0.0"
+github "antitypical/Result" "4.0.0"
+github "wshamp/Common" "a6e112a9b58bd6249cc8b812fdc4772c069a2d94"
+github "wshamp/ReactiveSwiftCommon" "d64594d8526b7282cf1c6d7b9d276176358e5742"
